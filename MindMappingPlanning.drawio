@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-20T14:28:23.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="T-g8hOEM07cYygJHoAV6" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-20T15:10:00.943Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="aCsOTh3gca5CfOOg2jKZ" version="12.5.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="4764" dy="1366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1011,7 +1011,7 @@
             <mxPoint x="-478.9985824666203" y="2155.1179446042634" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="voT6KS4KQfKfTc6dw4Qr-1646" style="endArrow=none;strokeWidth=6;strokeColor=#736ca8;html=1;entryX=0.762;entryY=0.895;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="voT6KS4KQfKfTc6dw4Qr-1650">
+        <mxCell id="voT6KS4KQfKfTc6dw4Qr-1646" style="endArrow=none;strokeWidth=6;strokeColor=#736ca8;html=1;entryX=0.762;entryY=0.895;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="voT6KS4KQfKfTc6dw4Qr-1650" source="voT6KS4KQfKfTc6dw4Qr-1682">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="591.9993110047724" y="2252.4003755094773" as="sourcePoint"/>
             <mxPoint x="-63.19359312880685" y="2080.9364068711934" as="targetPoint"/>
@@ -1148,6 +1148,36 @@
             <mxPoint x="848.9992398300459" y="2089.642401266899" as="sourcePoint"/>
             <mxPoint x="-575.5100000000001" y="2530" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="voT6KS4KQfKfTc6dw4Qr-1682" value="BiSL -&amp;nbsp;Business Information &lt;br&gt;Service Library" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="456.09" y="2130" width="173.91" height="170" as="geometry"/>
+        </mxCell>
+        <mxCell id="voT6KS4KQfKfTc6dw4Qr-1684" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="voT6KS4KQfKfTc6dw4Qr-1682" target="voT6KS4KQfKfTc6dw4Qr-1691">
+          <mxGeometry x="-1128.01" y="1559.02" width="100" height="100" as="geometry">
+            <mxPoint x="497.21000000000004" y="2167.999999999999" as="sourcePoint"/>
+            <mxPoint x="760" y="2340" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="voT6KS4KQfKfTc6dw4Qr-1685" value="&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;65&quot; style=&quot;border-collapse: collapse ; width: 49pt&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 14.5pt&quot;&gt;&lt;td height=&quot;19&quot; class=&quot;xl76&quot; width=&quot;65&quot; style=&quot;height: 14.5pt ; width: 49pt&quot;&gt;informatievoorziening wordt belangrijker;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.5pt&quot;&gt;&lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;height: 14.5pt&quot;&gt;ketenregie is meer en meer aan de orde;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.5pt&quot;&gt;&lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;height: 14.5pt&quot;&gt;toename outsourcing en professionalisering van de relaties;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.5pt&quot;&gt;&lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;height: 14.5pt&quot;&gt;diversificatie van de verschillende soorten sturing binnen organisaties.&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.5pt&quot;&gt;&lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;height: 14.5pt&quot;&gt;organisaties veranderenvoortdurend en de middelen om deze &lt;br&gt;veranderingen te realiseren zijn beperkt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.5pt&quot;&gt;&lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;height: 14.5pt&quot;&gt;de noodzaak om beleid van organisaties beter te laten aansluiten op de praktijk.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="712.38" y="2150" width="501" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="voT6KS4KQfKfTc6dw4Qr-1686" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" edge="1" parent="1" source="voT6KS4KQfKfTc6dw4Qr-1682" target="voT6KS4KQfKfTc6dw4Qr-1685">
+          <mxGeometry x="-1097.4" y="1636.52" width="100" height="100" as="geometry">
+            <mxPoint x="761.2519497494371" y="2300.0024543446843" as="sourcePoint"/>
+            <mxPoint x="-997.4" y="1636.52" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="voT6KS4KQfKfTc6dw4Qr-1687" value="Het kasstroomoverzicht" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="452.19000000000005" y="2380" width="161.06" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="voT6KS4KQfKfTc6dw4Qr-1688" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" edge="1" parent="1" source="voT6KS4KQfKfTc6dw4Qr-1682" target="voT6KS4KQfKfTc6dw4Qr-1687">
+          <mxGeometry x="-1128.46" y="1715.94" width="100" height="100" as="geometry">
+            <mxPoint x="701.2501985948761" y="2329.997946016993" as="sourcePoint"/>
+            <mxPoint x="-1028.46" y="1715.94" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="voT6KS4KQfKfTc6dw4Qr-1691" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Procesclusters&lt;/b&gt;&lt;/div&gt;1. Gebruikersbeheer&lt;br&gt;2. Functionaliteitenbeheer&lt;br&gt;3. Verbindende processen uitvoerend&lt;br&gt;4. Sturende processen&lt;br&gt;5. Opstellen informatiestrategie&lt;br&gt;6. Opstellen IV-organisatiestrategie&lt;br&gt;7. Verbindend proces op richtinggevend niveau" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="720" y="2300" width="372.37" height="150" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
