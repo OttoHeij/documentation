@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-27T15:33:15.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="gLapDE2oLQORVcHGQGCt" version="12.5.6" type="github">
+<mxfile host="www.draw.io" modified="2020-01-27T15:43:21.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="Q-0IMzXKLflmPmIP-Dke" version="12.5.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="3517" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1606,7 +1606,7 @@
           <mxGeometry x="-714.5899999999998" y="2760" width="120" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="RAmZz_rK28u6Xgqm88BN-1659" value="het product&lt;br&gt;de relatie met de klant&lt;br&gt;de eigen positie op de markt en de samenleving" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-584.62" y="2750" width="272.82" height="57.43" as="geometry"/>
+          <mxGeometry x="-560.68" y="2760" width="272.82" height="57.43" as="geometry"/>
         </mxCell>
         <mxCell id="RAmZz_rK28u6Xgqm88BN-1660" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" edge="1" parent="1" source="RAmZz_rK28u6Xgqm88BN-1658" target="RAmZz_rK28u6Xgqm88BN-1659">
           <mxGeometry x="-1927.77" y="3385.75" width="100" height="100" as="geometry">
@@ -1620,7 +1620,7 @@
         <mxCell id="RAmZz_rK28u6Xgqm88BN-1662" value="Verhoging effectiviteit" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-641.3800000000001" y="3180" width="141.79" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="RAmZz_rK28u6Xgqm88BN-1663" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RAmZz_rK28u6Xgqm88BN-1661" target="RAmZz_rK28u6Xgqm88BN-1662">
+        <mxCell id="RAmZz_rK28u6Xgqm88BN-1663" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" edge="1" parent="1" source="RAmZz_rK28u6Xgqm88BN-1661" target="RAmZz_rK28u6Xgqm88BN-1662">
           <mxGeometry x="-1418.37" y="2861.51" width="100" height="100" as="geometry">
             <mxPoint x="-480.890328560743" y="3133.4970802561866" as="sourcePoint"/>
             <mxPoint x="-1318.37" y="2861.51" as="targetPoint"/>
