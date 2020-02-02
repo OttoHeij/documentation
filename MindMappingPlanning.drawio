@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-02T07:17:27.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="nvmPTra6Hv0jTsTSSksh" version="12.6.2" type="github">
+<mxfile host="www.draw.io" modified="2020-02-02T08:07:39.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="wwwQZdfQig3uPEbaQN5w" version="12.6.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="3550" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1629,8 +1629,8 @@
         <mxCell id="RAmZz_rK28u6Xgqm88BN-1667" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Stijl&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;segmentatieprincipes&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;ontwikkelprincipes&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;distributieprincipes&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&#39;branding&#39; principes&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;logistieke principes&lt;/span&gt;&lt;/div&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-823.68" y="2880" width="145.66" height="108.42" as="geometry"/>
         </mxCell>
-        <mxCell id="RAmZz_rK28u6Xgqm88BN-1662" value="" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-723.5000000000001" y="3080" width="141.79" height="40" as="geometry"/>
+        <mxCell id="RAmZz_rK28u6Xgqm88BN-1662" value="Werkprocessen" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-664.6200000000001" y="3021.68" width="141.79" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="AP82GA7Oub7KLNkqWCDn-1542" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="RAmZz_rK28u6Xgqm88BN-1661" target="AP82GA7Oub7KLNkqWCDn-1543" edge="1">
           <mxGeometry x="-1146.29" y="2584.6600000000003" width="100" height="100" as="geometry">
@@ -1638,7 +1638,7 @@
             <mxPoint x="-1046.29" y="2584.6600000000003" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AP82GA7Oub7KLNkqWCDn-1543" value="" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="AP82GA7Oub7KLNkqWCDn-1543" value="Bedrijfsprocessen" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-650.0000000000001" y="2900" width="141.79" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="AP82GA7Oub7KLNkqWCDn-1544" value="Organisatie-acrhitectuur" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#ffffff;align=center;strokeWidth=3;fillColor=#0050ef;strokeColor=#001DBC;rotation=0;" parent="1" vertex="1">
@@ -1663,10 +1663,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D71s1JaSoK4UVfCQYxyJ-1544" value="Informatie-architectuur" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="191.04000000000016" y="2917.43" width="142.34" height="144.25" as="geometry"/>
+          <mxGeometry x="157.71000000000015" y="2900" width="142.34" height="144.25" as="geometry"/>
         </mxCell>
         <mxCell id="D71s1JaSoK4UVfCQYxyJ-1545" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Applicatiearchitectuur&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;gegevensregistratie&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;transactieverwerking&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;ondersteuning van administratieve werkzaamheden&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;procesmonitoring en -besturing (workflow)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;uitvoering van berekeningen&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;proces-, prestatie- en gegevensanalyse&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;ondersteuning van besluitvorming&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;informatieverstrekking&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;ondersteuning van communicatie&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;archivering&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;grafische vormgeving&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;ondersteuning van ontwikkel- en beheeraktiviteiten&lt;/span&gt;&lt;/div&gt;" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="258.25" y="3069" width="350" height="211" as="geometry"/>
+          <mxGeometry x="124.91999999999999" y="3069" width="350" height="211" as="geometry"/>
         </mxCell>
         <mxCell id="D71s1JaSoK4UVfCQYxyJ-1546" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="D71s1JaSoK4UVfCQYxyJ-1544" target="D71s1JaSoK4UVfCQYxyJ-1545" edge="1">
           <mxGeometry x="119.96000000000022" y="2189.04" width="100" height="100" as="geometry">
@@ -1675,7 +1675,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D71s1JaSoK4UVfCQYxyJ-1547" value="Gegevens architectuur" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="424.8" y="2707.12" width="143.34" height="130" as="geometry"/>
+          <mxGeometry x="329.19" y="2660" width="143.34" height="130" as="geometry"/>
         </mxCell>
         <mxCell id="D71s1JaSoK4UVfCQYxyJ-1548" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="D71s1JaSoK4UVfCQYxyJ-1547" target="D71s1JaSoK4UVfCQYxyJ-1549" edge="1">
           <mxGeometry x="-296.52" y="3405.75" width="100" height="100" as="geometry">
@@ -1684,10 +1684,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D71s1JaSoK4UVfCQYxyJ-1549" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Ross, Weill en Robertson operating models&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;diversification low business process standardization, low business process integration&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;coordination low business process standardization, high business process integration&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;replication high business process standardization, low business process integration&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;unification high business process standardization, high business process integration&lt;br&gt;&lt;/div&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="379.57" y="2917.43" width="489.24" height="90" as="geometry"/>
+          <mxGeometry x="561" y="2650" width="489.24" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="D71s1JaSoK4UVfCQYxyJ-1550" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Gegevenssoorten&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;div&gt;beleidsgegevens die de kaders meegeven voor de inrichting van het proces;&lt;/div&gt;&lt;div&gt;prestatie-indicatoren die bepalen welke resultaatgegevens moeten worden vastgelegd&lt;/div&gt;&lt;div&gt;resultaatgegevens die tijdens of na afloop van het proces worden geregistreerd&lt;/div&gt;&lt;div&gt;normgegevens die worden gebruikt om de resultaatgegevens te beoordelen&lt;/div&gt;&lt;div&gt;evaluatiegegevens die volgen uit de analyse van behaalde resultaten ten opzichte van gedefinieerde normen&lt;/div&gt;&lt;div&gt;contextgegevens die kunnen helpen de evaluatiegegevens te verklaren.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="550.75" y="2587.12" width="590" height="120" as="geometry"/>
+          <mxGeometry x="329.19" y="2505" width="590" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="D71s1JaSoK4UVfCQYxyJ-1551" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0.11;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="D71s1JaSoK4UVfCQYxyJ-1547" target="D71s1JaSoK4UVfCQYxyJ-1550" edge="1">
           <mxGeometry x="-519.56" y="3167.57" width="100" height="100" as="geometry">
@@ -1713,12 +1713,6 @@
         <mxCell id="wLwz3GkFDwkjcPljqO5x-1548" value="Gegevens&amp;nbsp;&lt;br&gt;architectuur" style="rounded=1;fillColor=#007FFF;strokeColor=#030303;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-32.949999999999974" y="2660" width="131.2" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="wLwz3GkFDwkjcPljqO5x-1549" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1160" y="3370" as="sourcePoint"/>
-            <mxPoint x="-1110" y="3320" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wLwz3GkFDwkjcPljqO5x-1550" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wLwz3GkFDwkjcPljqO5x-1547">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="2690" as="sourcePoint"/>
@@ -1726,12 +1720,6 @@
             <Array as="points">
               <mxPoint x="146" y="2652"/>
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wLwz3GkFDwkjcPljqO5x-1552" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1160" y="3450" as="sourcePoint"/>
-            <mxPoint x="-1110" y="3400" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="wLwz3GkFDwkjcPljqO5x-1553" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.438;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="wLwz3GkFDwkjcPljqO5x-1543">
@@ -1761,12 +1749,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wLwz3GkFDwkjcPljqO5x-1558" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1160" y="3530" as="sourcePoint"/>
-            <mxPoint x="-1110" y="3480" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wLwz3GkFDwkjcPljqO5x-1559" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-29" y="2610" as="sourcePoint"/>
@@ -1778,6 +1760,51 @@
             <mxPoint x="-90" y="2600" as="sourcePoint"/>
             <mxPoint x="-40" y="2550" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wLwz3GkFDwkjcPljqO5x-1561" style="endArrow=none;strokeWidth=6;strokeColor=#736ca8;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wLwz3GkFDwkjcPljqO5x-1562" target="RAmZz_rK28u6Xgqm88BN-1641">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="791.9993110047724" y="3052.4003755094773" as="sourcePoint"/>
+            <mxPoint x="349.9999999999991" y="2842.5699999999997" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wLwz3GkFDwkjcPljqO5x-1562" value="Architectuur-principes" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2809.73" width="142.76" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="wLwz3GkFDwkjcPljqO5x-1563" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wLwz3GkFDwkjcPljqO5x-1562" target="wLwz3GkFDwkjcPljqO5x-1566">
+          <mxGeometry x="-928.01" y="2359.02" width="100" height="100" as="geometry">
+            <mxPoint x="697.21" y="2967.999999999999" as="sourcePoint"/>
+            <mxPoint x="960" y="3140" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wLwz3GkFDwkjcPljqO5x-1564" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Coördinatie&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Hoge procesintegratie&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Lage processtandaardisatie&lt;/font&gt;&lt;/div&gt;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="576.31" y="2790" width="243.69" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="wLwz3GkFDwkjcPljqO5x-1565" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Diversificatie&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Lage procesintegratie&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Lage processtandaardisatie&lt;/font&gt;&lt;/div&gt;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="576.31" y="2946.68" width="243.69" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="wLwz3GkFDwkjcPljqO5x-1566" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Procesintegratie&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="443.7" y="2917.43" width="160.87" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="wLwz3GkFDwkjcPljqO5x-1573" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Laag&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="525.88" y="3009.21" width="70.87" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="wLwz3GkFDwkjcPljqO5x-1575" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Hoog&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="526" y="2834.25" width="70.87" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="wLwz3GkFDwkjcPljqO5x-1576" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Processtandaardisatie&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="762" y="3130" width="160.87" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="wLwz3GkFDwkjcPljqO5x-1577" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Laag&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="674.56" y="3100" width="70.87" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="wLwz3GkFDwkjcPljqO5x-1578" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Hoog&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="934.13" y="3099" width="70.87" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="wLwz3GkFDwkjcPljqO5x-1579" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Uniformering&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Hoge procesintegratie&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Hoge processtandaardisatie&lt;/font&gt;&lt;/div&gt;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="842.49" y="2790" width="243.69" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="wLwz3GkFDwkjcPljqO5x-1580" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Herhaling&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Lage procesintegratie&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Lage processtandaardisatie&lt;/font&gt;&lt;/div&gt;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="842.49" y="2946.68" width="243.69" height="150" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
