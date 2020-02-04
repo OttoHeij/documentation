@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-02T08:07:39.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="wwwQZdfQig3uPEbaQN5w" version="12.6.2" type="github">
+<mxfile host="www.draw.io" modified="2020-02-04T06:33:53.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="FQqapt_Cnn3pd_TmzxJv" version="12.6.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="3550" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3589" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -418,7 +418,7 @@
           <mxGeometry x="-896.5" y="348.5" width="108" height="111.5" as="geometry"/>
         </mxCell>
         <mxCell id="1517" value="Control: &lt;br&gt;grip op leveranciers" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-979.5" y="235" width="151.5" height="40" as="geometry"/>
+          <mxGeometry x="-990" y="235" width="162" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1518" value="Begrijpelijkheid &lt;br&gt;servicecatalogus" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-722.01" y="348.5" width="120" height="40" as="geometry"/>
