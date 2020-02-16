@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-16T16:03:50.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="i57zU-gmFUslKrq0SZjk" version="12.7.0" type="github">
+<mxfile host="www.draw.io" modified="2020-02-16T18:31:29.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="2j3aNQjRYOLXpZBMoFCF" version="12.7.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="3589" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -108,7 +108,7 @@
           <mxGeometry x="870" y="415.25" width="120" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="1356" value="Service- catalogus" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="251.96999999999997" y="650.03" width="131.5" height="131.5" as="geometry"/>
+          <mxGeometry x="450.59999999999997" y="640.03" width="131.5" height="131.5" as="geometry"/>
         </mxCell>
         <mxCell id="1357" value="Servicestrategie" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-643.0300000000001" y="74.22999999999999" width="120" height="40" as="geometry"/>
@@ -187,7 +187,7 @@
           <mxGeometry x="-423.79" y="15.72999999999999" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1390" value="Serviceproductie" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-315.07000000000005" y="66.94999999999999" width="120" height="40" as="geometry"/>
+          <mxGeometry x="-304.4800000000001" y="63.90999999999999" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1391" value="Continue serviceverbetering" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-289.37000000000006" y="146.73" width="173.5" height="40" as="geometry"/>
@@ -346,16 +346,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1498" value="afsluiten" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="145.43" y="780" width="120" height="40" as="geometry"/>
+          <mxGeometry x="344.06" y="770" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1499" value="registratie standaardservices" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="382.63" y="770" width="176.5" height="40" as="geometry"/>
+          <mxGeometry x="581.26" y="760" width="176.5" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1500" value="beslissen aanpassing van de servicecatalogus" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="404.49999999999994" y="695.78" width="276.5" height="40" as="geometry"/>
+          <mxGeometry x="603.1299999999999" y="685.78" width="276.5" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1501" value="inventarisatie van servicewensen" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="360.88" y="610" width="198.25" height="40" as="geometry"/>
+          <mxGeometry x="559.51" y="600" width="198.25" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1502" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1501" edge="1">
           <mxGeometry x="-919.71" y="-5" width="100" height="100" as="geometry">
@@ -381,8 +381,8 @@
             <mxPoint x="-819.71" y="-5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1515" value="SLM" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-170" y="485.78" width="164.5" height="164.22" as="geometry"/>
+        <mxCell id="1515" value="SLM&lt;br&gt;&lt;font style=&quot;font-size: 14px ; font-weight: normal&quot;&gt;onderdeel van &lt;br&gt;Service Ontwerp Processen&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-170" y="480" width="164.5" height="170" as="geometry"/>
         </mxCell>
         <mxCell id="1516" value="Slagen SLM" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-896.5" y="348.5" width="108" height="111.5" as="geometry"/>
@@ -1846,25 +1846,93 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yNmTvaQJTykI2TKJO9Xv-1575" value="PDCA-Deming" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#ffffff;align=center;strokeWidth=3;fillColor=#0050ef;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="681" y="528.25" width="109" height="103.5" as="geometry"/>
+          <mxGeometry x="770.12" y="513.25" width="109" height="103.5" as="geometry"/>
         </mxCell>
-        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1576" style="endArrow=none;strokeWidth=6;strokeColor=#001DBC;html=1;fillColor=#0050ef;entryX=0.995;entryY=0.653;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yNmTvaQJTykI2TKJO9Xv-1575" target="1515">
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1576" style="endArrow=none;strokeWidth=6;strokeColor=#001DBC;html=1;fillColor=#0050ef;" edge="1" parent="1" source="yNmTvaQJTykI2TKJO9Xv-1575" target="1515">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="334.65449999999987" y="605.3801599999999" as="sourcePoint"/>
             <mxPoint x="-21.576629888548496" y="707.4961421644928" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="yNmTvaQJTykI2TKJO9Xv-1579" value="Edhub vraag!" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=5;" vertex="1" parent="1">
-          <mxGeometry x="712.38" y="620" width="160" height="40" as="geometry"/>
+          <mxGeometry x="845" y="616.75" width="160" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="yNmTvaQJTykI2TKJO9Xv-1580" value="Edhub vraag!" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=5;" vertex="1" parent="1">
           <mxGeometry x="-743.7000000000002" y="11.26" width="160" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1582" value="Edhub vraag!&lt;br&gt;Wat is geen ISM proces?&lt;br&gt;Release management" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=-30;" vertex="1" parent="1">
-          <mxGeometry x="-303.79" y="227.75" width="253.13" height="52.46" as="geometry"/>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1582" value="Edhub vraag!&lt;br&gt;Wat is geen ISM proces?&lt;br&gt;Release management&lt;br&gt;Information management" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="-298.84" y="226.42" width="253.13" height="72.25" as="geometry"/>
         </mxCell>
         <mxCell id="yNmTvaQJTykI2TKJO9Xv-1583" value="Edhub vraag!&lt;br&gt;Wat is geen type SLA?&lt;br&gt;Operations SLA" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=-45;" vertex="1" parent="1">
           <mxGeometry x="200.52" y="296.04" width="253.13" height="52.46" as="geometry"/>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1584" value="&lt;font style=&quot;font-size: 18px&quot;&gt;People&lt;br&gt;Process&lt;br&gt;Product&lt;/font&gt;" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1009.68" y="573" width="125.2" height="94" as="geometry"/>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1585" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#001DBC;html=1;fillColor=#0050ef;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="yNmTvaQJTykI2TKJO9Xv-1584" source="yNmTvaQJTykI2TKJO9Xv-1575">
+          <mxGeometry x="-525.8400000000001" y="754.5" width="100" height="100" as="geometry">
+            <mxPoint x="919.5218983587661" y="694.5867261678013" as="sourcePoint"/>
+            <mxPoint x="710.5400000000001" y="1024.5" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1586" value="Edhub vraag!&lt;br&gt;Wat vind je in de servicecatalogus?&lt;br&gt;Beschrijft de verschillende diensten" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="208.38000000000002" y="677.54" width="253.13" height="52.46" as="geometry"/>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1588" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Service productieproces&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="11.129999999999999" y="618.28" width="111.76" height="111.72" as="geometry"/>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1589" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;exitX=0.938;exitY=0.767;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="yNmTvaQJTykI2TKJO9Xv-1588" source="1515">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-152.99625260516632" y="540.6771479344854" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1590" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yNmTvaQJTykI2TKJO9Xv-1588" target="yNmTvaQJTykI2TKJO9Xv-1594">
+          <mxGeometry x="-1319.71" y="10" width="100" height="100" as="geometry">
+            <mxPoint x="-1319.71" y="110" as="sourcePoint"/>
+            <mxPoint x="11" y="740" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1591" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yNmTvaQJTykI2TKJO9Xv-1588" target="yNmTvaQJTykI2TKJO9Xv-1592">
+          <mxGeometry x="-1309.71" y="20" width="100" height="100" as="geometry">
+            <mxPoint x="40.54411408201577" y="726.4664747262314" as="sourcePoint"/>
+            <mxPoint x="-20" y="710" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1592" value="Eventmanagement" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-216.56" y="656.75" width="143.21" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1593" value="Incidentmanagement" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-228.75" y="708.28" width="143.21" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1594" value="Request fulfillment" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-194.35999999999999" y="770" width="143.21" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1595" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;exitX=0.07;exitY=0.728;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yNmTvaQJTykI2TKJO9Xv-1588" target="yNmTvaQJTykI2TKJO9Xv-1593">
+          <mxGeometry x="-1309.71" y="20" width="100" height="100" as="geometry">
+            <mxPoint x="46.525448284522554" y="730.9555615630552" as="sourcePoint"/>
+            <mxPoint x="20.735435108776983" y="770.78" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1596" value="Problem management" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-33.85999999999997" y="770" width="143.21" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1597" value="Toegangsbeheer" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="127.73000000000005" y="770" width="143.21" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1598" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yNmTvaQJTykI2TKJO9Xv-1588" target="yNmTvaQJTykI2TKJO9Xv-1596">
+          <mxGeometry x="-1309.71" y="20" width="100" height="100" as="geometry">
+            <mxPoint x="29.205693906592842" y="713.0661724769025" as="sourcePoint"/>
+            <mxPoint x="-79.99736147074054" y="780" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1599" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yNmTvaQJTykI2TKJO9Xv-1588" target="yNmTvaQJTykI2TKJO9Xv-1597">
+          <mxGeometry x="-1299.71" y="30" width="100" height="100" as="geometry">
+            <mxPoint x="77.01000000000022" y="739.9999999999998" as="sourcePoint"/>
+            <mxPoint x="57.5" y="780" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1600" value="Edhub vraag!&lt;br&gt;Wat is geen service productieproces?&lt;br&gt;portfolio management" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="-446.34999999999997" y="618.28" width="276.35" height="52.46" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
