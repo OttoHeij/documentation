@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-16T15:39:42.669Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="biqdaD7aHms8JxvIJDEn" version="12.7.0" type="github">
+<mxfile host="www.draw.io" modified="2020-02-16T16:03:50.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="i57zU-gmFUslKrq0SZjk" version="12.7.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="3589" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1862,6 +1862,9 @@
         </mxCell>
         <mxCell id="yNmTvaQJTykI2TKJO9Xv-1582" value="Edhub vraag!&lt;br&gt;Wat is geen ISM proces?&lt;br&gt;Release management" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="-303.79" y="227.75" width="253.13" height="52.46" as="geometry"/>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1583" value="Edhub vraag!&lt;br&gt;Wat is geen type SLA?&lt;br&gt;Operations SLA" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="200.52" y="296.04" width="253.13" height="52.46" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
