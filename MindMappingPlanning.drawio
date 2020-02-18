@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-16T18:31:29.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="2j3aNQjRYOLXpZBMoFCF" version="12.7.0" type="github">
+<mxfile host="www.draw.io" modified="2020-02-18T12:56:47.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="tvaKjv4r986MQEjpWsUZ" version="12.7.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="3589" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1933,6 +1933,63 @@
         </mxCell>
         <mxCell id="yNmTvaQJTykI2TKJO9Xv-1600" value="Edhub vraag!&lt;br&gt;Wat is geen service productieproces?&lt;br&gt;portfolio management" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="-446.34999999999997" y="618.28" width="276.35" height="52.46" as="geometry"/>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1603" style="endArrow=none;strokeWidth=6;strokeColor=#736ca8;html=1;exitX=0.311;exitY=0.03;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="yNmTvaQJTykI2TKJO9Xv-1612" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1050.2434999999996" y="3610.71066" as="sourcePoint"/>
+            <mxPoint x="-160.22902824571887" y="3550.5288074414243" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1604" value="" style="edgeStyle=none;endArrow=none;strokeWidth=6;strokeColor=#E85642;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" target="yNmTvaQJTykI2TKJO9Xv-1612" parent="1">
+          <mxGeometry x="-917.4499999999999" y="2679.73" width="100" height="100" as="geometry">
+            <mxPoint x="-757.6574293645557" y="3519.99874343076" as="sourcePoint"/>
+            <mxPoint x="-2.9388335370305967" y="3189.2318365397755" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1605" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;entryX=1.007;entryY=0.447;entryDx=0;entryDy=0;exitX=-0.001;exitY=0.451;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" source="yNmTvaQJTykI2TKJO9Xv-1612" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-657.4499999999997" y="3705.7999999999997" as="targetPoint"/>
+            <mxPoint x="-873.2087499999994" y="3675.06" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1606" style="endArrow=none;strokeWidth=6;strokeColor=#f08705;html=1;exitX=0.006;exitY=0.564;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="yNmTvaQJTykI2TKJO9Xv-1612" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-560.9249999999998" y="3979.73" as="sourcePoint"/>
+            <mxPoint x="-560.2913534273147" y="3838.7764957024388" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1607" style="endArrow=none;strokeWidth=6;strokeColor=#001DBC;html=1;fillColor=#0050ef;" edge="1" source="yNmTvaQJTykI2TKJO9Xv-1612" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10.635000000000026" y="3839.73" as="sourcePoint"/>
+            <mxPoint x="-278.01281567477776" y="3874.30236918369" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1608" style="endArrow=none;strokeWidth=6;strokeColor=#736ca8;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="yNmTvaQJTykI2TKJO9Xv-1612" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="411.60659815160943" y="3759.1536738174896" as="sourcePoint"/>
+            <mxPoint x="-61.48359312880685" y="3773.0964068711933" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1609" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="yNmTvaQJTykI2TKJO9Xv-1612" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="521.71" y="3636.4100000000003" as="targetPoint"/>
+            <mxPoint x="239.7613926283395" y="3841.887320303554" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1610" style="endArrow=none;strokeWidth=6;strokeColor=#f08705;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.11;entryY=0.706;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="yNmTvaQJTykI2TKJO9Xv-1612" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="368.27628811042473" y="3595.9121946652726" as="sourcePoint"/>
+            <mxPoint x="641.6292999999996" y="3552.18" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1611" style="endArrow=none;strokeWidth=6;strokeColor=#001DBC;html=1;fillColor=#0050ef;" edge="1" source="yNmTvaQJTykI2TKJO9Xv-1612" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320.0139644529703" y="3287.1618697376935" as="sourcePoint"/>
+            <mxPoint x="57.41848006903863" y="3626.9609803809403" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1612" value="Duurzaam ontwikkelen" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-150.23999999999998" y="3639.73" width="301.95" height="190" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
