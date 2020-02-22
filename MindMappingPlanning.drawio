@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-22T10:25:25.157Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="xtVsKTF4XjtV_6qBRT_c" version="12.7.0" type="github">
+<mxfile host="www.draw.io" modified="2020-02-22T10:42:16.560Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="r1pxPj40tW42KfaBWKvD" version="12.7.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="3507" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3683" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -598,7 +598,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="voT6KS4KQfKfTc6dw4Qr-1545" value="Inkoopplan" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-1099.59" y="1040" width="129.59" height="40" as="geometry"/>
+          <mxGeometry x="-1070.79" y="1070" width="129.59" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="voT6KS4KQfKfTc6dw4Qr-1546" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="61DMd2a8S4PAV4XTqUyv-1562" target="voT6KS4KQfKfTc6dw4Qr-1545" edge="1">
           <mxGeometry x="-1285" y="215" width="100" height="100" as="geometry">
@@ -871,7 +871,7 @@
           <mxGeometry x="208.4" y="1453.5" width="176.11" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="voT6KS4KQfKfTc6dw4Qr-1614" value="&lt;b&gt;Vreemd vermogen&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;een of meer leningen is aangegaan;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;niet contant aan een leverancier betaalt voor geleverde&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;goederen of diensten, zodat leverancierskrediet ontstaat;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;betaling van bepaalde posten uitstelt, zoals het achteraf&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;betalen van interest over geleend vermogen.&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="63.880000000000024" y="1535" width="330" height="105" as="geometry"/>
+          <mxGeometry x="63.88" y="1535" width="326.12" height="105" as="geometry"/>
         </mxCell>
         <mxCell id="voT6KS4KQfKfTc6dw4Qr-1616" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#001DBC;html=1;fillColor=#0050ef;" parent="1" source="voT6KS4KQfKfTc6dw4Qr-1605" target="voT6KS4KQfKfTc6dw4Qr-1613" edge="1">
           <mxGeometry x="-1738.46" y="1484.22" width="100" height="100" as="geometry">
@@ -2407,6 +2407,36 @@
         </mxCell>
         <mxCell id="yNmTvaQJTykI2TKJO9Xv-1737" value="Edhub vraag!" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=-15;" vertex="1" parent="1">
           <mxGeometry x="663.01" y="1413.5" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1738" value="Edhub vraag!" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="300.05000000000007" y="1020" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1739" value="Edhub vraag!&lt;br&gt;Kahoot vraag!" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="-188.82999999999993" y="1320" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1741" value="Edhub vraag!" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="60.00000000000006" y="1480" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1742" value="Edhub vraag!&lt;br&gt;Kahoot vraag!" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=15;" vertex="1" parent="1">
+          <mxGeometry x="-775.56" y="1340" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1743" value="Edhub vraag!" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="-577.2899999999998" y="1390" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1744" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="voT6KS4KQfKfTc6dw4Qr-1620" target="yNmTvaQJTykI2TKJO9Xv-1743">
+          <mxGeometry x="-1150.52" y="890" width="100" height="100" as="geometry">
+            <mxPoint x="-486.3028781316566" y="1395.985045585906" as="sourcePoint"/>
+            <mxPoint x="-425" y="1431.875" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1745" value="Edhub vraag!" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="-85.53999999999994" y="1590" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1746" value="Edhub vraag!" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="-1143.22" y="1020" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1747" value="Edhub vraag!&lt;br&gt;Kahoot vraag!" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="350.0000000000001" y="1388.5" width="160" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
