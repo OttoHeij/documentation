@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-22T10:42:16.560Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="r1pxPj40tW42KfaBWKvD" version="12.7.0" type="github">
+<mxfile host="www.draw.io" modified="2020-02-22T11:06:35.758Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="JCnge8DEmTcXIBnawfje" version="12.7.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="3683" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -96,7 +96,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1350" value="Deel- processen SLM" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-948.3900000000002" y="140.75" width="124.71" height="120" as="geometry"/>
+          <mxGeometry x="-608.2100000000003" y="212.72000000000003" width="124.71" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="1351" value="ITIL V3&lt;br&gt;Levenscyclus&lt;br&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Servicemanagement&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Service&lt;br&gt;Waarde&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-509.06" y="81.47999999999999" width="179.98" height="168.5" as="geometry"/>
@@ -118,9 +118,6 @@
         </mxCell>
         <mxCell id="1357" value="Servicestrategie" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-643.0300000000001" y="74.22999999999999" width="120" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="1358" value="&lt;b&gt;Aansturen van de IT dienstverlening&lt;/b&gt;&lt;br&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;65&quot; style=&quot;border-collapse: collapse ; width: 49pt&quot;&gt; &lt;colgroup&gt;&lt;col width=&quot;65&quot; style=&quot;width: 49pt&quot;&gt;&lt;/colgroup&gt; &lt;tbody&gt;&lt;tr style=&quot;height: 14.5pt&quot;&gt;  &lt;td height=&quot;19&quot; class=&quot;xl76&quot; width=&quot;65&quot; style=&quot;text-align: left ; height: 14.5pt ; width: 49pt&quot;&gt;Het verzamelen van deelprestaties.&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height: 14.5pt&quot;&gt;  &lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Samenstellen van servicerapportages.&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height: 14.5pt&quot;&gt;  &lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Evalueren van de IT dienstverlening.&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height: 14.5pt&quot;&gt;  &lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Bijsturen van de IT dienstverlening.&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height: 14.5pt&quot;&gt;  &lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Het afsluiten.&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="445.72" width="269.8" height="128.5" as="geometry"/>
         </mxCell>
         <mxCell id="1359" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;" parent="1" source="1515" target="1350" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -162,28 +159,10 @@
             <mxPoint x="-827.21" y="170" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1367" value="&lt;b&gt;Maken en onderhouden van serviceafspraken&lt;/b&gt;&lt;br&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;65&quot; style=&quot;border-collapse: collapse ; width: 49pt&quot;&gt; &lt;colgroup&gt;&lt;col width=&quot;65&quot; style=&quot;width: 49pt&quot;&gt;&lt;/colgroup&gt; &lt;tbody&gt;&lt;tr style=&quot;height: 14.5pt&quot;&gt;  &lt;td height=&quot;19&quot; class=&quot;xl76&quot; width=&quot;65&quot; style=&quot;text-align: left ; height: 14.5pt ; width: 49pt&quot;&gt;Verzamelen van eisen en wensen.&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height: 14.5pt&quot;&gt;  &lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Specificeren van gewenste service.&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height: 14.5pt&quot;&gt;  &lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Verifiëren van impact en haalbaarheid.&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height: 14.5pt&quot;&gt;  &lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Beslissen over offerte.&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height: 14.5pt&quot;&gt;  &lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Onderhandelen&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height: 14.5pt&quot;&gt;  &lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Doorvoeren serviceafspraken.&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height: 14.5pt&quot;&gt;  &lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Toetsen aanpassing servicecatalogus.&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height: 14.5pt&quot;&gt;  &lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Afsluiten.&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="224.75000000000003" width="306.21" height="190.5" as="geometry"/>
-        </mxCell>
-        <mxCell id="1368" value="&lt;b&gt;Onderhoud van de servicecatalogus&lt;/b&gt;&lt;br&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;65&quot; style=&quot;border-collapse: collapse ; width: 49pt&quot;&gt; &lt;colgroup&gt;&lt;col width=&quot;65&quot; style=&quot;width: 49pt&quot;&gt;&lt;/colgroup&gt; &lt;tbody&gt;&lt;tr style=&quot;height: 14.5pt&quot;&gt;  &lt;td height=&quot;19&quot; class=&quot;xl76&quot; width=&quot;65&quot; style=&quot;text-align: left ; height: 14.5pt ; width: 49pt&quot;&gt;Inventarisatie van servicewensen.&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height: 14.5pt&quot;&gt;  &lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Beslissen aanpassing van de servicecatalogus.&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height: 14.5pt&quot;&gt;  &lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Registratie standaardservices.&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height: 14.5pt&quot;&gt;  &lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Afsluiten.&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1230" y="614" width="274.54" height="112" as="geometry"/>
-        </mxCell>
-        <mxCell id="1378" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="yNmTvaQJTykI2TKJO9Xv-1573" target="yNmTvaQJTykI2TKJO9Xv-1570" edge="1">
+        <mxCell id="1378" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1350" target="yNmTvaQJTykI2TKJO9Xv-1570" edge="1">
           <mxGeometry x="-1329.71" width="100" height="100" as="geometry">
             <mxPoint x="-1329.71" y="100" as="sourcePoint"/>
             <mxPoint x="-810" y="184" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1379" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1350" edge="1">
-          <mxGeometry x="-1329.71" width="100" height="100" as="geometry">
-            <mxPoint x="-1329.71" y="100" as="sourcePoint"/>
-            <mxPoint x="-750" y="70" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1380" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1350" edge="1">
-          <mxGeometry x="-1329.71" width="100" height="100" as="geometry">
-            <mxPoint x="-1329.71" y="100" as="sourcePoint"/>
-            <mxPoint x="-710" y="90" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="1388" value="Service-ontwerp" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -391,31 +370,31 @@
           <mxGeometry x="-170" y="480" width="164.5" height="170" as="geometry"/>
         </mxCell>
         <mxCell id="1516" value="Slagen SLM" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-896.5" y="348.5" width="108" height="111.5" as="geometry"/>
+          <mxGeometry x="-772.2399999999999" y="379.25" width="103.56" height="100.75" as="geometry"/>
         </mxCell>
         <mxCell id="1517" value="Control: &lt;br&gt;grip op leveranciers" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-923.5" y="290" width="162" height="40" as="geometry"/>
+          <mxGeometry x="-637.0600000000001" y="348.5" width="162" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1518" value="Begrijpelijkheid &lt;br&gt;servicecatalogus" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-722.01" y="348.5" width="120" height="40" as="geometry"/>
+          <mxGeometry x="-574.59" y="405" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1522" value="Prijs" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-1130.06" y="320" width="120" height="40" as="geometry"/>
+          <mxGeometry x="-1070.79" y="424.25" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1523" value="Klanttevredenheid" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-769.25" y="455.78000000000003" width="120" height="40" as="geometry"/>
+          <mxGeometry x="-686.21" y="530" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1524" value="Servicerealisatie" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-806.21" y="534.22" width="120" height="40" as="geometry"/>
+          <mxGeometry x="-780" y="573" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1525" value="Business ondersteuning" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-970" y="534.22" width="142" height="40" as="geometry"/>
+          <mxGeometry x="-962" y="573" width="142" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1526" value="Gebruikerstevredenheid" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-1077" y="485" width="142" height="40" as="geometry"/>
+          <mxGeometry x="-1139.97" y="584.51" width="142" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1527" value="Heldere afspraken" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-1160" y="430" width="120" height="40" as="geometry"/>
+          <mxGeometry x="-1139.97" y="530" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1528" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1516" target="1517" edge="1">
           <mxGeometry x="-2606.21" y="-360" width="100" height="100" as="geometry">
@@ -424,7 +403,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1529" value="Rapportagewaardering" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-1157.06" y="375.25" width="147" height="40" as="geometry"/>
+          <mxGeometry x="-1145" y="473.25" width="147" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1530" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1516" target="1518" edge="1">
           <mxGeometry x="-2606.21" y="-360" width="100" height="100" as="geometry">
@@ -487,10 +466,10 @@
           <mxGeometry x="-674.7100000000002" y="640" width="151.88" height="143.5" as="geometry"/>
         </mxCell>
         <mxCell id="lY6t4aZSWO1BoxrxZ2rH-1562" value="Beslissen over offerte" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-1050" y="740" width="160" height="40" as="geometry"/>
+          <mxGeometry x="-1050.12" y="770" width="160" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="lY6t4aZSWO1BoxrxZ2rH-1563" value="Onderhandelen" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-1074.2099999999998" y="668.28" width="161.12" height="40" as="geometry"/>
+          <mxGeometry x="-1113.34" y="720" width="161.12" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="lY6t4aZSWO1BoxrxZ2rH-1564" value="Verzamelen van eisen en wensen" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-475.88000000000017" y="690" width="215.88" height="40" as="geometry"/>
@@ -499,7 +478,7 @@
           <mxGeometry x="-522.8299999999999" y="760.78" width="209" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="lY6t4aZSWO1BoxrxZ2rH-1566" value="Verifiëren van impact en haalbaarheid" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-880" y="770" width="223.5" height="40" as="geometry"/>
+          <mxGeometry x="-866.53" y="780" width="223.5" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="lY6t4aZSWO1BoxrxZ2rH-1567" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#001DBC;html=1;fillColor=#0050ef;" parent="1" source="lY6t4aZSWO1BoxrxZ2rH-1561" target="lY6t4aZSWO1BoxrxZ2rH-1562" edge="1">
           <mxGeometry x="-2254.59" y="990.5" width="100" height="100" as="geometry">
@@ -532,16 +511,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lY6t4aZSWO1BoxrxZ2rH-1573" value="Doorvoeren serviceafspraken" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-1019.9999999999999" y="600" width="196.32" height="40" as="geometry"/>
+          <mxGeometry x="-1062.85" y="670" width="196.32" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="lY6t4aZSWO1BoxrxZ2rH-1574" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#001DBC;html=1;fillColor=#0050ef;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="lY6t4aZSWO1BoxrxZ2rH-1561" target="lY6t4aZSWO1BoxrxZ2rH-1573" edge="1">
+        <mxCell id="lY6t4aZSWO1BoxrxZ2rH-1574" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#001DBC;html=1;fillColor=#0050ef;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lY6t4aZSWO1BoxrxZ2rH-1561" target="lY6t4aZSWO1BoxrxZ2rH-1573" edge="1">
           <mxGeometry x="-2269.79" y="822" width="100" height="100" as="geometry">
             <mxPoint x="-928.2138040881994" y="1085.7800329913493" as="sourcePoint"/>
             <mxPoint x="-1033.41" y="1092" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="lY6t4aZSWO1BoxrxZ2rH-1575" value="Toetsen aanpassing servicecatalogus" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-788.5" y="586" width="227.82" height="40" as="geometry"/>
+          <mxGeometry x="-896.5" y="624.51" width="227.82" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="lY6t4aZSWO1BoxrxZ2rH-1576" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#001DBC;html=1;fillColor=#0050ef;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="lY6t4aZSWO1BoxrxZ2rH-1561" target="lY6t4aZSWO1BoxrxZ2rH-1575" edge="1">
           <mxGeometry x="-2131.29" y="670.22" width="100" height="100" as="geometry">
@@ -550,7 +529,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lY6t4aZSWO1BoxrxZ2rH-1577" value="Afsluiten" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-522.83" y="560" width="161.12" height="40" as="geometry"/>
+          <mxGeometry x="-611.12" y="590" width="161.12" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="lY6t4aZSWO1BoxrxZ2rH-1578" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#001DBC;html=1;fillColor=#0050ef;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="lY6t4aZSWO1BoxrxZ2rH-1561" target="lY6t4aZSWO1BoxrxZ2rH-1577" edge="1">
           <mxGeometry x="-1983.4700000000003" y="728.5" width="100" height="100" as="geometry">
@@ -1482,7 +1461,7 @@
             <mxPoint x="-3.1188335370306257" y="2339.2318365397755" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RAmZz_rK28u6Xgqm88BN-1641" value="Architectuurontwerp" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="RAmZz_rK28u6Xgqm88BN-1641" value="Architectuurontwerp&lt;br&gt;&lt;font size=&quot;3&quot;&gt;Doel van architectuur is sturing&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-161.19" y="2760" width="320.42" height="199.73" as="geometry"/>
         </mxCell>
         <mxCell id="RAmZz_rK28u6Xgqm88BN-1643" style="endArrow=none;strokeWidth=6;strokeColor=#001DBC;html=1;fillColor=#0050ef;" parent="1" source="RAmZz_rK28u6Xgqm88BN-1641" target="AP82GA7Oub7KLNkqWCDn-1544" edge="1">
@@ -1512,11 +1491,11 @@
         <mxCell id="RAmZz_rK28u6Xgqm88BN-1648" value="Business&amp;nbsp; architectuur" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-679" y="2580" width="142.34" height="144.25" as="geometry"/>
         </mxCell>
-        <mxCell id="RAmZz_rK28u6Xgqm88BN-1649" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;&lt;b&gt;Bedrijfsarchitectuur&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;bij herziening van de missie, strategie en doelstellingen van de onderneming &lt;br&gt;&amp;nbsp;dit te toetsen aan de betekenis hiervan voor de organisatie&lt;br&gt;&amp;nbsp;de samenhang tussen de aspectgebieden borgen&lt;br&gt;&amp;nbsp;vertrekpunt voor business planning&lt;br&gt;&amp;nbsp;kader voor het ontwerp&lt;br&gt;&amp;nbsp;het beheer van het veranderingsproces&lt;br&gt;&amp;nbsp;zekerheid en evaluatie van de resultaten van het veranderingsproces" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;align=left;" parent="1" vertex="1">
+        <mxCell id="RAmZz_rK28u6Xgqm88BN-1649" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;&lt;b&gt;Bedrijfsarchitectuur&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;bij herziening van de missie, strategie en doelstellingen van de onderneming &lt;br&gt;&amp;nbsp;dit te toetsen aan de betekenis hiervan voor de organisatie&lt;br&gt;&amp;nbsp;de &lt;font color=&quot;#000000&quot;&gt;samenhang&lt;/font&gt; tussen de aspectgebieden borgen&lt;br&gt;&amp;nbsp;&lt;font color=&quot;#000000&quot;&gt;vertrekpunt voor business planning&lt;/font&gt;&lt;br&gt;&amp;nbsp;kader voor het ontwerp&lt;br&gt;&amp;nbsp;het &lt;font color=&quot;#000000&quot;&gt;beheer van het veranderingsproces&lt;/font&gt;&lt;br&gt;&amp;nbsp;zekerheid en evaluatie van de resultaten van het veranderingsproces" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;align=left;" parent="1" vertex="1">
           <mxGeometry x="-1145" y="2490" width="420" height="150" as="geometry"/>
         </mxCell>
         <mxCell id="RAmZz_rK28u6Xgqm88BN-1650" value="&lt;b&gt;Aspectarchitectuur&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;productarchitectuur&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;organisatiearchitectuur&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;procesarchitectuur&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;informatiearchitectuur&lt;/span&gt;&lt;/div&gt;" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-1145" y="2650" width="145" height="100" as="geometry"/>
+          <mxGeometry x="-997.97" y="2654.24" width="145" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="RAmZz_rK28u6Xgqm88BN-1651" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RAmZz_rK28u6Xgqm88BN-1648" target="RAmZz_rK28u6Xgqm88BN-1649" edge="1">
           <mxGeometry x="-1282.6999999999998" y="1739.04" width="100" height="100" as="geometry">
@@ -1818,8 +1797,8 @@
         <mxCell id="yNmTvaQJTykI2TKJO9Xv-1565" value="met onderliggende sla&#39;s" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="576.75" y="63.25" width="140" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1567" value="Kahoot vraag!&lt;br&gt;Kernbegrippen" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;" vertex="1" parent="1">
-          <mxGeometry x="-627.08" y="172.73" width="160" height="40" as="geometry"/>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1567" value="Kahoot vraag!&lt;br&gt;Kernbegrippen" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=15;" vertex="1" parent="1">
+          <mxGeometry x="-647" y="134.75" width="160" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="yNmTvaQJTykI2TKJO9Xv-1568" value="Kahoot vraag!" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="416.75" y="94.75" width="160" height="40" as="geometry"/>
@@ -1830,17 +1809,11 @@
             <mxPoint x="584.1499999999996" y="118.01409722959329" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1570" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;Maken en onderhouden van serviceafspraken&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Aansturen IT-dienstverlening&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Onderhoud servicecatalogus&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-1145" y="19.79" width="295" height="60.21" as="geometry"/>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1570" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Maken en onderhouden van serviceafspraken&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;65&quot; style=&quot;text-align: center ; border-collapse: collapse ; width: 49pt&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 14.5pt&quot;&gt;&lt;td height=&quot;19&quot; class=&quot;xl76&quot; width=&quot;65&quot; style=&quot;text-align: left ; height: 14.5pt ; width: 49pt&quot;&gt;Verzamelen van eisen en wensen.&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.5pt&quot;&gt;&lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Specificeren van gewenste service.&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.5pt&quot;&gt;&lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Verifiëren van impact en haalbaarheid.&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.5pt&quot;&gt;&lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Beslissen over offerte.&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.5pt&quot;&gt;&lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Onderhandelen&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.5pt&quot;&gt;&lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Doorvoeren serviceafspraken.&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.5pt&quot;&gt;&lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Toetsen aanpassing servicecatalogus.&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.5pt&quot;&gt;&lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Afsluiten.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Aansturen IT-dienstverlening&lt;br&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;65&quot; style=&quot;font-size: 12px ; font-weight: 400 ; text-align: center ; border-collapse: collapse ; width: 49pt&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 14.5pt&quot;&gt;&lt;td height=&quot;19&quot; class=&quot;xl76&quot; width=&quot;65&quot; style=&quot;text-align: left ; height: 14.5pt ; width: 49pt&quot;&gt;Het verzamelen van deelprestaties.&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.5pt&quot;&gt;&lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Samenstellen van servicerapportages.&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.5pt&quot;&gt;&lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Evalueren van de IT dienstverlening.&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.5pt&quot;&gt;&lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Bijsturen van de IT dienstverlening.&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.5pt&quot;&gt;&lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Het afsluiten.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Onderhoud servicecatalogus&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;65&quot; style=&quot;text-align: center ; border-collapse: collapse ; width: 49pt&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 14.5pt&quot;&gt;&lt;td height=&quot;19&quot; class=&quot;xl76&quot; width=&quot;65&quot; style=&quot;text-align: left ; height: 14.5pt ; width: 49pt&quot;&gt;Inventarisatie van servicewensen.&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.5pt&quot;&gt;&lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Beslissen aanpassing van de servicecatalogus.&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.5pt&quot;&gt;&lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Registratie standaardservices.&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.5pt&quot;&gt;&lt;td height=&quot;19&quot; class=&quot;xl76&quot; style=&quot;text-align: left ; height: 14.5pt&quot;&gt;Afsluiten.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1145" y="10" width="375" height="400" as="geometry"/>
         </mxCell>
-        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1573" value="Kahoot vraag!&lt;br&gt;Wat is geen deelproces van SLM?&lt;br&gt;Service Level Agreement" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=-30;" vertex="1" parent="1">
-          <mxGeometry x="-1120" y="103.91" width="253.13" height="52.46" as="geometry"/>
-        </mxCell>
-        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1574" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" edge="1" parent="1" source="1350" target="yNmTvaQJTykI2TKJO9Xv-1573">
-          <mxGeometry x="-1329.71" width="100" height="100" as="geometry">
-            <mxPoint x="-746.80511487598" y="215.92023621516955" as="sourcePoint"/>
-            <mxPoint x="-952.063046525574" y="80" as="targetPoint"/>
-          </mxGeometry>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1573" value="Kahoot vraag!&lt;br&gt;Wat is geen deelproces van SLM?&lt;br&gt;Service Level Agreement" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="-810.6900000000003" y="149.04" width="253.13" height="52.46" as="geometry"/>
         </mxCell>
         <mxCell id="yNmTvaQJTykI2TKJO9Xv-1575" value="PDCA-Deming" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#ffffff;align=center;strokeWidth=3;fillColor=#0050ef;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="770.12" y="513.25" width="109" height="103.5" as="geometry"/>
@@ -1855,7 +1828,7 @@
           <mxGeometry x="845" y="616.75" width="160" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="yNmTvaQJTykI2TKJO9Xv-1580" value="Edhub vraag!" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=5;" vertex="1" parent="1">
-          <mxGeometry x="-743.7000000000002" y="11.26" width="160" height="40" as="geometry"/>
+          <mxGeometry x="-729.1200000000001" y="15.73" width="160" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="yNmTvaQJTykI2TKJO9Xv-1582" value="Edhub vraag!&lt;br&gt;Wat is geen ISM proces?&lt;br&gt;Release management&lt;br&gt;Information management" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="-298.84" y="226.42" width="253.13" height="72.25" as="geometry"/>
@@ -2437,6 +2410,12 @@
         </mxCell>
         <mxCell id="yNmTvaQJTykI2TKJO9Xv-1747" value="Edhub vraag!&lt;br&gt;Kahoot vraag!" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="350.0000000000001" y="1388.5" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1748" value="Edhub vraag!" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="-278.87" y="2900" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="yNmTvaQJTykI2TKJO9Xv-1751" value="Edhub vraag!" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;strokeColor=#FFFFFF;fillColor=#CCFF99;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="-1160" y="2653" width="160" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
