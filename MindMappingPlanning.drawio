@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-29T08:25:13.487Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="jskEzpthleOaBISuvKOY" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-02-29T08:29:15.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="SG-4ZXjzPR29rvfYWp5Y" version="12.7.9" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="3683" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -750,8 +750,8 @@
         <mxCell id="voT6KS4KQfKfTc6dw4Qr-1586" value="Interne analyse" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="220" y="1185" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="voT6KS4KQfKfTc6dw4Qr-1588" value="De analyse op de producten en / of &lt;br&gt;diensten geleverd door het bedrijf" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="428.25" y="1140.0000000000002" width="221.75" height="60" as="geometry" />
+        <mxCell id="voT6KS4KQfKfTc6dw4Qr-1588" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;De analyse op de producten en / of &lt;br&gt;diensten geleverd door het bedrijf&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="404.56" y="1130" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="voT6KS4KQfKfTc6dw4Qr-1589" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="voT6KS4KQfKfTc6dw4Qr-1586" target="voT6KS4KQfKfTc6dw4Qr-1588" edge="1">
           <mxGeometry x="-710.53" y="1380" width="100" height="100" as="geometry">
@@ -765,20 +765,20 @@
             <mxPoint x="142.13625000000002" y="1188.7092200000002" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="voT6KS4KQfKfTc6dw4Qr-1591" value="De analyse van het gehele assortiment &lt;br&gt;van het bedrijf (het product)" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="712.38" y="1160" width="221.75" height="50" as="geometry" />
+        <mxCell id="voT6KS4KQfKfTc6dw4Qr-1591" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;De analyse van het gehele assortiment van het bedrijf (het product)&lt;/font&gt;&lt;/b&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="655.56" y="1195" width="494.44" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="voT6KS4KQfKfTc6dw4Qr-1592" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="voT6KS4KQfKfTc6dw4Qr-1586" target="voT6KS4KQfKfTc6dw4Qr-1591" edge="1">
+        <mxCell id="voT6KS4KQfKfTc6dw4Qr-1592" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="voT6KS4KQfKfTc6dw4Qr-1586" target="voT6KS4KQfKfTc6dw4Qr-1591" edge="1">
           <mxGeometry x="-435.75" y="1419.53" width="100" height="100" as="geometry">
             <mxPoint x="493.25" y="1280" as="sourcePoint" />
             <mxPoint x="-335.75" y="1419.53" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="voT6KS4KQfKfTc6dw4Qr-1593" value="De analyse van de producten, markten en technologieën &lt;br&gt;die worden gebruikt door een bedrijf" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="820" y="1220" width="330" height="60" as="geometry" />
+        <mxCell id="voT6KS4KQfKfTc6dw4Qr-1593" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;De analyse van de producten, markten en technologieën die worden gebruikt door een bedrijf&lt;/font&gt;&lt;/b&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="507.26" y="1230" width="645.18" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="voT6KS4KQfKfTc6dw4Qr-1595" value="Een vergelijking van de meting en benchmarks, &lt;br&gt;die meestal afkomstig zijn van buiten het bedrijf" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;gradientColor=none;glass=0;comic=0;" parent="1" vertex="1">
-          <mxGeometry x="498.30999999999995" y="1260" width="291.69" height="60" as="geometry" />
+        <mxCell id="voT6KS4KQfKfTc6dw4Qr-1595" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Een vergelijking van de meting en benchmarks, die meestal afkomstig zijn van buiten het bedrijf&lt;/font&gt;&lt;/b&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;gradientColor=none;glass=0;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="469.35" y="1270" width="681.07" height="30" as="geometry" />
         </mxCell>
         <mxCell id="voT6KS4KQfKfTc6dw4Qr-1596" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="voT6KS4KQfKfTc6dw4Qr-1586" target="voT6KS4KQfKfTc6dw4Qr-1595" edge="1">
           <mxGeometry x="-653.94" y="1569.53" width="100" height="100" as="geometry">
@@ -2721,6 +2721,12 @@
           <mxGeometry x="-1150.52" y="890" width="100" height="100" as="geometry">
             <mxPoint x="-487.2433908538537" y="1397.4435135964595" as="sourcePoint" />
             <mxPoint x="-425" y="1435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXDJNKtT5jESSfS7Ab4R-1567" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="voT6KS4KQfKfTc6dw4Qr-1586" target="voT6KS4KQfKfTc6dw4Qr-1593">
+          <mxGeometry x="-425.75" y="1429.53" width="100" height="100" as="geometry">
+            <mxPoint x="350" y="1255" as="sourcePoint" />
+            <mxPoint x="706.75" y="1207.0276240971261" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
